@@ -1,0 +1,30 @@
+  243  ls
+  244  touch .gitignore
+  245  touch apple mango
+  246  ls
+  247  git status
+  248  vim .gitignore
+  249  git add .
+  250  git status
+  251  ls
+  252  cp -r ../Exercise1/* .
+  253  ls
+  254  ls -a
+  255  git add .
+  256  git commit -m "first commit"
+  257  git push
+  258  ls ../Exercise2
+  259  ls -a
+  260  ls -a ../Exercise2
+  261  cp -r ../Exercise2/.terraform .
+  262  ls -a
+  263  vim .gitignore 
+  264  git status
+  265  git add .
+  266  git commit -m "first commit"
+  267  git push
+  268  history
+  269  history -20
+  270  history 20
+  271  history 30
+  272  history 30 > history.txt
